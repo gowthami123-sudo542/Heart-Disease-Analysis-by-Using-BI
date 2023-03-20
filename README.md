@@ -35,7 +35,7 @@
    * 2 = flat
    * 3 = downsloping
 10) Number of major vessels (0–3) colored by flourosopy : displays the value as integer or float.
-   ###### Thal : displays the thalassemia :
+   ##### Thal : displays the thalassemia :
    * 3 = normal
    * 6 = fixed defect
    * 7 = reversible defect
