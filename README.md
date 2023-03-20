@@ -47,10 +47,10 @@
     
 ### Final Results
 ![Analysis1](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image1.jpg)
-![Analysis2](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image2.jpg)
-![Analysis3](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image3.jpg)
-![Analysis4](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image4.jpg)
-![Analysis5](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image5.jpg)
+![Analysis2](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image2.png)
+![Analysis3](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image3.png)
+![Analysis4](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image4.png)
+![Analysis5](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image5.png)
    
    
  
