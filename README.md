@@ -47,6 +47,7 @@
     
 ### Final Results
 ![Analysis1](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image1.jpg)
+![Analysis2]
    
    
  
