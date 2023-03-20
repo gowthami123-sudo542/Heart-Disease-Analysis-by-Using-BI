@@ -6,6 +6,7 @@
  
 ## DataSet Details
  * [DataSet Link](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
-#Tools used
- * 
+ * DataSet Description 
+   ![image](https://user-images.githubusercontent.com/67852967/226351054-43db12a9-eead-4011-86ff-1b2deb250c2a.png)
+
  
