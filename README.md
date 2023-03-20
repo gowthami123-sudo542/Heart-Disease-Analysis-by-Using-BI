@@ -6,7 +6,7 @@
  
 ## DataSet Details
  * [DataSet Link](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
- * DataSet Description 
+  ### DataSet Description 
   1) Age: displays the age of the individual.
   2) Sex: displays the gender of the individual using the following format :
     * 1 = male
@@ -42,6 +42,7 @@
 11) Diagnosis of heart disease : Displays whether the individual is suffering from heart disease or not :
    * 0 = absence
    * 1, 2, 3, 4 = present.
-
-
+### Business Intelligence Tool Used:
+   **  Tableau **
+   
  
