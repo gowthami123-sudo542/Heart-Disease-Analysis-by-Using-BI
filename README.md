@@ -53,4 +53,5 @@
 ![Analysis5](https://github.com/maramgowthami/Heart-Disease-Analysis-by-Using-BI/blob/main/Result/Image5.png)
    
    
- 
+### ppt Link (Full Description)
+* [ppt link](https://slides.com/selvat/slides-for-developers)
